@@ -39,8 +39,7 @@ To be unbeatable at Scrabble by writing a computer program that uses your letter
 Enter your letters:  
 sdreletw
 
-Here are the top 10 suggestions:
-
+Here are the top 10 suggestions:  
 lewdster  
 wrestled  
 rewelds  
