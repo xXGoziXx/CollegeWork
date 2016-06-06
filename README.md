@@ -1,6 +1,15 @@
 # CollegeWork
 This is a collection of all the work I've done throughout my college course.
 
+## Decrypt
+#### Aim:
+Given a .txt file with a certain language from the list available, this program determines which language it is.  
+It does this by calculating the frequencies of characters and getting the difference between the mystery language and the list of languages.
+
+## Hashing
+####Aim:
+Hashes a Dictionary file into a hashing table using various methods then allows the user to search for a word in the dictionary.
+
 ## Huffman
 #### Aim:
 To see the Huffman Encoding process of an ASCII sentence.
@@ -32,6 +41,20 @@ This was my 2nd Year Final Project.
 #### Aim:
 Identify a string of natural numbers, each separated by a space, which minimizes volatility while staying below the investment amount available. 
 
+## MonteCarloDice
+#### Aim:
+Say you start rolling a dice. On average you will need 6 rolls to get a 6.  
+But what if, during the process of rolling for a 6,you get a Snapchat?  
+Given that you received a Snapchat at some point during the rolling process, how many rolls will you need on average to get a 6?  
+Now let’s make it a bit more interesting. What if you sneeze and get a Snapchatwhile you’re rolling for a 6.  
+Now how many rolls will you need on average to get a 6?  
+One way to answer these questions is to actually roll a dice and wait for these events to happen.  
+Another quicker way is to write a Monte Carlo algorithm, which is what this program does.
+
+## PublicKeyCrypto
+#### Aim:
+Extracts the message, given a public key and a cipher. (ELgamal Cryptography)
+
 ## Scrabble
 #### Aim:
 To be unbeatable at Scrabble by writing a computer program that uses your letters to make the longest words possible and gives you the top 10 suggestions.
@@ -51,3 +74,12 @@ welters
 wrested  
 wrestle  
 lewdest  
+
+## Stocks
+#### Aim:
+This program identifies the following using the StockData.txt file:
+ 1. The S&P 500 company with the lowest drawdown* between 2008 and mid-2011, the actual percentage, and the dates between which it occurred  
+ 2. The S&P 500 company with the highest drawdown* between 2008 and mid-2011, the actual percentage, and the dates between which it occurred  
+
+*A drawdown is the peak-to-trough decline during a specific record period of an investment, fund or commodity.  
+ A drawdown is usually quoted as the percentage between the peak and the trough.
