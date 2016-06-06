@@ -90,3 +90,14 @@ This program identifies the following using the StockData.txt file:
 
 *A drawdown is the peak-to-trough decline during a specific record period of an investment, fund or commodity.  
  A drawdown is usually quoted as the percentage between the peak and the trough.
+
+## Sticks
+#### Aim:
+Takes _n_ as an input and Simulates:  
+ 1. Grabbing a stick. 
+ 2. Breaking it in two. 
+ 3. Picking the longer piece.
+ 4. Randomly breaking that piece in two.
+ 5. Carrying out this process a total of n times, always picking the longest piece to break.
+
+Outputs: The probability that a triangle can be formed out of **ANY** three of the resulting pieces.
