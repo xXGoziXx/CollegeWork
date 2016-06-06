@@ -8,6 +8,11 @@ Arduino 2 - made the red External LED toggle on/off using the external switch.
 Arduino 3 - read the position of the potentiometer and sent the value to the serial monitor console.  
 Arduino 4 - displayed the potentiometer position on the LCD display.  
 
+## Bit Twiddling
+#### Description:
+ 1. Inverts all the bits.
+ 2. Inverts only every second bit.
+
 ## Decrypt
 #### Aim:
 Given a .txt file with a certain language from the list available, this program determines which language it is.  
