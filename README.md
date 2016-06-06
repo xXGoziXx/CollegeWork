@@ -1,6 +1,13 @@
 # CollegeWork
 This is a collection of all the work I've done throughout my college course.
 
+## Arduino
+#### Description:
+Arduino 1 - made the integrated orange LED on Pin 13 flash.  
+Arduino 2 - made the red External LED toggle on/off using the external switch.  
+Arduino 3 - read the position of the potentiometer and sent the value to the serial monitor console.  
+Arduino 4 - displayed the potentiometer position on the LCD display.  
+
 ## Decrypt
 #### Aim:
 Given a .txt file with a certain language from the list available, this program determines which language it is.  
