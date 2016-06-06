@@ -3,7 +3,8 @@
 This is a collection of all the work I've done throughout my college course.
 
 ## Huffman
-Allows one to see the Huffman Encoding process of an ASCII sentence
+#### Aim:
+To see the Huffman Encoding process of an ASCII sentence.
 #### Example Display:
 Enter your sentence: The cats did not sit on the mat
 
@@ -43,3 +44,36 @@ Compressed size is 107 bits / 217 bits = 49 %
 This was my 2nd Year Final Project.
 #### Aim:
 Identify a string of natural numbers, each separated by a space, which minimizes volatility while staying below the investment amount available. 
+
+## Scrabble
+#### Aim:
+To be unbeatable at Scrabble by writing a computer program that uses your letters to make the longest words possible and gives you the top 10 suggestions.
+#### Example Display:
+Enter your letters:
+
+sdreletw
+
+
+Here are the top 10 suggestions:
+
+lewdster
+
+wrestled
+
+rewelds
+
+strewed
+
+swelted
+
+swelter
+
+welders
+
+welters
+
+wrested
+
+wrestle
+
+lewdest
