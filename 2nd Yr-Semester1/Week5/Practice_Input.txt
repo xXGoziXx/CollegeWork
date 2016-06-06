@@ -1,0 +1,21 @@
+8
+Expected Output: false
+******************
+1
+Expected Output: false
+******************
+2
+Expected Output: true
+******************
+3
+Expected Output: true
+******************
+4
+Expected Output: false
+******************
+0
+Expected Output: false
+******************
+11
+Expected Output: true
+******************

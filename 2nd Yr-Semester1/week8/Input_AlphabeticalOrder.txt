@@ -1,0 +1,22 @@
+20
+insert a
+insert a
+insert a
+insert b
+insert a
+insert a
+insert b
+insert c
+insert b
+insert c
+remove
+
+
+
+
+
+
+
+
+
+

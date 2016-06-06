@@ -1,0 +1,18 @@
+3856
+Expected Output: 3853
+*****
+5216
+Expected Output: 5209
+*****
+957
+Expected Output: 953
+*****
+8437
+Expected Output: 8431
+*****
+7
+Expected Output: 7
+*****
+2
+Expected Output: 2
+*****

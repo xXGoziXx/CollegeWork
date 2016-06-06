@@ -1,0 +1,36 @@
+3
+one
+two
+three
+Expected Output: one three two
+*************
+5
+our
+democracy
+and
+our
+people
+Expected Output: and democracy our our people
+*************
+5
+under
+a
+sky
+lit
+by
+Expected Output: a by lit sky under
+*************
+7
+allies
+hoped
+the
+vote
+would
+help
+restore
+Expected Output: allies help hoped restore the vote would
+*************
+1
+hello
+Expected Output: hello
+*************

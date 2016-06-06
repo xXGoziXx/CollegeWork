@@ -1,0 +1,18 @@
+5
+Expected Output: 11
+******************
+61
+Expected Output: 283
+******************
+479
+Expected Output: 3407
+******************
+1
+Expected Output: 2
+******************
+20
+Expected Output: 71
+******************
+190
+Expected Output: 1151
+******************

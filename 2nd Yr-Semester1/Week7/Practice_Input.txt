@@ -1,0 +1,18 @@
+ten animals i slam in a net
+Expected output: TRUE
+******************
+hello
+Expected output: FALSE
+******************
+animal loots foliated detail of stool lamina
+Expected output: TRUE
+******************
+a
+Expected output: TRUE
+******************
+gg
+Expected output: TRUE
+******************
+this is not a palindrome
+Expected output: FALSE
+******************
